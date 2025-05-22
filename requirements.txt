@@ -1,0 +1,2 @@
+docling~=2.33.0
+streamlit~=1.44.1
